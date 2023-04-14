@@ -19,6 +19,11 @@ npm i @nestjs/cli
 ```
 docker-compose up -d
 ```
+5. Reconstruir DB con seed
+
+```
+http://localhost:/api/v1/seed
+```
 
 
 ## Stack usado
